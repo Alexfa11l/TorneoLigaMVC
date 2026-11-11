@@ -18,7 +18,7 @@ El código fuente se encuentra organizado en el directorio `src` bajo los siguie
 - Java Development Kit (JDK) instalado.
 - Entorno de desarrollo integrado (IDE) compatible con proyectos Java, como Eclipse IDE.
 
-## Instrucciones para el Profesor / Evaluador
+## Instrucciones para el Docente
 1. Clonar el repositorio en la máquina local mediante Git Bash:
    git clone https://github.com/Alexfa11l/TorneoLigaMVC.git
 2. Abrir el IDE (Eclipse) e importar el proyecto como un proyecto Java existente.
